@@ -1,0 +1,8 @@
+12:38:23 PM Thursday, August 25, 2022
+  :Logging Process 1 Finished
+12:38:23 PM Thursday, August 25, 2022
+  :Logging Process 2 Finished
+12:38:50 PM Thursday, August 25, 2022
+  :Logging Process 1 Finished
+12:38:50 PM Thursday, August 25, 2022
+  :Logging Process 2 Finished

@@ -1,0 +1,15 @@
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\bin\Debug\net6.0\LoggingMechanism.exe
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\bin\Debug\net6.0\LoggingMechanism.deps.json
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\bin\Debug\net6.0\LoggingMechanism.runtimeconfig.json
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\bin\Debug\net6.0\LoggingMechanism.dll
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\bin\Debug\net6.0\LoggingMechanism.pdb
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\obj\Debug\net6.0\LoggingMechanism.csproj.AssemblyReference.cache
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\obj\Debug\net6.0\LoggingMechanism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\obj\Debug\net6.0\LoggingMechanism.AssemblyInfoInputs.cache
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\obj\Debug\net6.0\LoggingMechanism.AssemblyInfo.cs
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\obj\Debug\net6.0\LoggingMechanism.csproj.CoreCompileInputs.cache
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\obj\Debug\net6.0\LoggingMechanism.dll
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\obj\Debug\net6.0\refint\LoggingMechanism.dll
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\obj\Debug\net6.0\LoggingMechanism.pdb
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\obj\Debug\net6.0\LoggingMechanism.genruntimeconfig.cache
+C:\Users\addsi\source\repos\LoggingMechanism\LoggingMechanism\obj\Debug\net6.0\ref\LoggingMechanism.dll
