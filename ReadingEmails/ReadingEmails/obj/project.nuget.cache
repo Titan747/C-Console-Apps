@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "elMoYDmbKMStNXKEEywPqPGnVY1Jz5tbQGTBX98x3DAXMO5bHSSN88W0lbPURhYUnlR0hp1tb50PiyxYiq2+vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\addsi\\source\\repos\\ReadingEmails\\ReadingEmails\\ReadingEmails.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\addsi\\.nuget\\packages\\microsoft.office.interop.outlook\\15.0.4797.1004\\microsoft.office.interop.outlook.15.0.4797.1004.nupkg.sha512",
+    "C:\\Users\\addsi\\.nuget\\packages\\microsoftofficecore\\15.0.0\\microsoftofficecore.15.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MicrosoftOfficeCore 15.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MicrosoftOfficeCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
